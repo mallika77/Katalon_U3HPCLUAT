@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HPCLUAT,,,,31-07-2024 13:02:22,31-07-2024 13:02:45,22.443s,FAILED
+,,,,,,,
+Test Cases/U3UATMain_Modules_Test_case_2,,Checking all Modules and navigations,,31-07-2024 13:02:23,31-07-2024 13:02:45,21.787s,FAILED
+Start listener action : sampleBeforeTestCase,,,,31-07-2024 13:02:23,31-07-2024 13:02:23,0.023s,PASSED
+"callTestCase(findTestCase(""U3UAT_Login_Test_case_1""), [:], STOP_ON_FAILURE)",,,,31-07-2024 13:02:23,31-07-2024 13:02:45,21.558s,FAILED
+Start listener action : sampleAfterTestCase,,,,31-07-2024 13:02:45,31-07-2024 13:02:45,0.003s,PASSED
