@@ -19,23 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl('https://ttlssternauat.hpcl.co.in/login')
 
 WebUI.maximizeWindow()
 
 WebUI.waitForPageLoad(3000)
 
 WebUI.switchToWindowTitle('Sterna Unigem')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
 

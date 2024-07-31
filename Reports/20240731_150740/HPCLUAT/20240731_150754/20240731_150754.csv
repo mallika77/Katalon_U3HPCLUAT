@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HPCLUAT,Chrome 127.0.0.0,,,31-07-2024 15:07:59,31-07-2024 15:10:49,2m - 50.211s,FAILED
+,,,,,,,
+Test Cases/U3UATMain_Modules_Test_case_2,Chrome 127.0.0.0,Checking all Modules and navigations,,31-07-2024 15:07:59,31-07-2024 15:10:49,2m - 49.957s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 127.0.0.0,,,31-07-2024 15:08:00,31-07-2024 15:08:00,0.010s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,31-07-2024 15:08:00,31-07-2024 15:08:28,27.908s,PASSED
+"navigateToUrl(""https://ttlssternauat.hpcl.co.in/login"")",Chrome 127.0.0.0,,,31-07-2024 15:08:28,31-07-2024 15:08:29,1.502s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,31-07-2024 15:08:29,31-07-2024 15:08:32,2.496s,PASSED
+waitForPageLoad(3000),Chrome 127.0.0.0,,,31-07-2024 15:08:32,31-07-2024 15:08:32,0.149s,PASSED
+"switchToWindowTitle(""Sterna Unigem"")",Chrome 127.0.0.0,,,31-07-2024 15:08:32,31-07-2024 15:08:32,0.038s,PASSED
+"click(findTestObject(""submenu/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,31-07-2024 15:08:32,31-07-2024 15:08:40,7.850s,PASSED
+"mouseOver(findTestObject(""submenu/Page_Sterna Unigem/tripexception/span_Terminal Exceptions""))",Chrome 127.0.0.0,,,31-07-2024 15:08:40,31-07-2024 15:09:12,32.575s,PASSED
+"click(findTestObject(""submenu/Page_Sterna Unigem/tripexception/span_View All Exceptions""))",Chrome 127.0.0.0,,,31-07-2024 15:09:12,31-07-2024 15:09:44,31.753s,PASSED
+"click(findTestObject(""submenu/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,31-07-2024 15:09:44,31-07-2024 15:09:45,1.147s,PASSED
+"mouseOver(findTestObject(""submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions""))",Chrome 127.0.0.0,,,31-07-2024 15:09:45,31-07-2024 15:10:18,32.420s,PASSED
+"click(findTestObject(""submenu/terminalexception/Page_Sterna Unigem/span_View All Exceptions""))",Chrome 127.0.0.0,,,31-07-2024 15:10:18,31-07-2024 15:10:49,31.894s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 127.0.0.0,,,31-07-2024 15:10:49,31-07-2024 15:10:49,0.004s,PASSED

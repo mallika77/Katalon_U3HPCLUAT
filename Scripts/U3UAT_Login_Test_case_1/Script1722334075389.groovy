@@ -27,7 +27,3 @@ WebUI.waitForPageLoad(3000)
 
 WebUI.switchToWindowTitle('Sterna Unigem')
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
