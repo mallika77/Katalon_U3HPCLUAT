@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Terminals</name>
+   <tag></tag>
+   <elementGuidId>92ac401a-3c84-456a-a1b6-a7f7e077cb8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/a[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Terminals&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>816773b3-005d-4dec-ae6b-979c7edd5f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal</value>
+      <webElementGuid>9603f86e-51b9-4b3b-b8e9-2d92a2db0902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terminals</value>
+      <webElementGuid>83d735ae-6b42-4ae6-951f-7ef4f2f43d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;pl-[76px] pb-8&quot;]/div[@class=&quot;w-full flex flex-col&quot;]/div[@class=&quot;sticky top-0 left-0 right-0 z-50 bg-white pt-2 shadow-sm flex flex-col space-y-2&quot;]/div[@class=&quot;w-full h-full flex items-end justify-start pl-4 space-x-6&quot;]/a[@class=&quot;text-sm font-medium underline-offset-[10px] py-1.5 border-b-[2.5px] border-white no-underline&quot;]/div[1]/span[@class=&quot;font-normal&quot;]</value>
+      <webElementGuid>b19bbcc3-92ca-4111-9edd-55ff98ef1e86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/a[4]/div/span</value>
+      <webElementGuid>94ecff4e-8b24-43a5-8c51-76b7c40e0f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns'])[1]/following::span[1]</value>
+      <webElementGuid>8646f888-817b-4cf3-af93-c5653a356121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stocks'])[1]/following::span[2]</value>
+      <webElementGuid>87b3cc4f-87a4-4cf3-ab5f-6e1811e86e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/preceding::span[1]</value>
+      <webElementGuid>23e76e20-51a7-49ae-b2e1-3829cd5f7777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trucks'])[1]/preceding::span[2]</value>
+      <webElementGuid>e1810cc2-77f1-49e1-80ff-537cfc1707d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div/span</value>
+      <webElementGuid>246a0ce0-32ae-4122-948b-671e5c13342f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Terminals' or . = 'Terminals')]</value>
+      <webElementGuid>ae1c753f-4d1a-40f7-8a81-60939c738010</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

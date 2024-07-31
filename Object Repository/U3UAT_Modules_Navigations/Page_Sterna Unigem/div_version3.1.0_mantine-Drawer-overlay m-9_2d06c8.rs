@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_version3.1.0_mantine-Drawer-overlay m-9_2d06c8</name>
+   <tag></tag>
+   <elementGuidId>27fa546a-f3cb-4661-8b26-1d74309c5e0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mantine-Drawer-overlay.m-9814e45f.mantine-Overlay-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[16]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.mantine-Drawer-overlay</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6214e99f-14a7-46bc-bdc2-97fe6017b95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mantine-Drawer-overlay m-9814e45f mantine-Overlay-root</value>
+      <webElementGuid>4078e3f0-6881-49be-8b2f-76ba5cf56030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fixed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0ed766db-61c7-4d4a-be34-aae50abc7203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[16]/div[1]/div[@class=&quot;m-f11b401e mantine-Drawer-root&quot;]/div[@class=&quot;mantine-Drawer-overlay m-9814e45f mantine-Overlay-root&quot;]</value>
+      <webElementGuid>8851639d-dadb-4609-a1f3-946bbc1b41cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div/div</value>
+      <webElementGuid>4d1dac25-5b08-49dd-a6f9-18ec47bfc4c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

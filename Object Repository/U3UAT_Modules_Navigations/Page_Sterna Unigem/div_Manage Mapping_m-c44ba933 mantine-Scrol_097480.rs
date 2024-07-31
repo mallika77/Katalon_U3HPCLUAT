@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Mapping_m-c44ba933 mantine-Scrol_097480</name>
+   <tag></tag>
+   <elementGuidId>d604869f-493a-405a-a7c7-eac21ac9961d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.m-c44ba933.mantine-ScrollArea-scrollbar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.m-c44ba933</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8278b14b-1b5f-4acc-b530-187615b90972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-orientation</name>
+      <type>Main</type>
+      <value>horizontal</value>
+      <webElementGuid>c0af3257-f02c-41b7-9cbd-bd12a141f9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>visible</value>
+      <webElementGuid>c84c3bc9-95e8-412d-9f03-ff321e713593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-c44ba933 mantine-ScrollArea-scrollbar</value>
+      <webElementGuid>207cd701-94e9-4be7-b3f8-620add24e261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;pl-[76px] pb-8&quot;]/div[2]/div[@class=&quot;p-4&quot;]/div[@class=&quot;card p-5 space-y-4&quot;]/div[@class=&quot;space-y-8&quot;]/div[@class=&quot;min-w-full&quot;]/div[@class=&quot;m-d57069b5 mantine-ScrollArea-root&quot;]/div[@class=&quot;m-c44ba933 mantine-ScrollArea-scrollbar&quot;]</value>
+      <webElementGuid>e8306702-94f7-424b-9149-22827db07807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>90c0713e-4fe7-41ae-aa5a-f4964a55adfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Mapping'])[10]/following::div[1]</value>
+      <webElementGuid>94491fab-98dd-422b-aff7-5a9fb5ae726c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KMS with swipe-in/swipe-out'])[10]/following::div[2]</value>
+      <webElementGuid>cf378fab-9b18-4621-a137-2b8b61153957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Network Status: Online'])[1]/preceding::div[8]</value>
+      <webElementGuid>cdad01e7-31b7-4da1-bad5-e6ee69dc6dc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>c24ddf07-de4b-4a09-8977-45d770888aa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ro Lock_m-d8b5e363 mantine-ScrollArea-thumb</name>
+   <tag></tag>
+   <elementGuidId>f491adf4-1e50-46d2-9f2d-717fe99a85db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.m-d8b5e363.mantine-ScrollArea-thumb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.m-d8b5e363</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3471690-7b1e-4ac6-b47e-9fed1b534374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>visible</value>
+      <webElementGuid>eb0b5d80-e716-46d6-92d3-fb7190192fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-d8b5e363 mantine-ScrollArea-thumb</value>
+      <webElementGuid>0f5058e9-1664-4d52-b9f1-99eb993f2a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;pl-[76px] pb-8&quot;]/div[2]/div[@class=&quot;p-4&quot;]/div[@class=&quot;card p-5 space-y-4&quot;]/div[@class=&quot;space-y-8&quot;]/div[@class=&quot;min-w-full&quot;]/div[@class=&quot;m-d57069b5 mantine-ScrollArea-root&quot;]/div[@class=&quot;m-c44ba933 mantine-ScrollArea-scrollbar&quot;]/div[@class=&quot;m-d8b5e363 mantine-ScrollArea-thumb&quot;]</value>
+      <webElementGuid>9ea197ec-c46e-4c06-90a2-6bb2144a5ca7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>408ab575-1b22-4069-8eb3-d9c0b661e851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>a9b9de96-d35e-430e-a32e-542eb95f689a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

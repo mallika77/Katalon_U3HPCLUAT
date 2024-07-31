@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking all Modules and navigations</description>
+   <name>U3UATMain_Modules_Test_case_2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2841583e-8a82-4d3f-a632-37b51b44a8da</testCaseGuid>
+</TestCaseEntity>

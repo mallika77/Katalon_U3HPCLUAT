@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S.NoZoneTerminal CodeTerminal NameState_dd8fdd</name>
+   <tag></tag>
+   <elementGuidId>ebc6761d-4c2d-48ed-a6b1-b64f45be52e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.p-4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b2a241f-e2ef-4221-9311-1c36bd965485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4</value>
+      <webElementGuid>8f156307-6a67-4ed1-868c-8b447c05c993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>S.NoZoneTerminal CodeTerminal NameStateTerminal OperationCreated DateAction1SOUTH WESTERN ZONE1845IRUMPANAM TERMINALKeralaKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping2GMO SOUTH ZONE3884IRUNGATTUKOTTAI HINCOL CODTamil NaduKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping3GMO SOUTH ZONE1879TIRUNELVELI DEPOTTamil NaduKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping4SOUTH CENTRAL RETAIL ZONE7455TIRUPATI COMCOAndhra PradeshKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage MappingShowing From 1 To 4 of 4 results1</value>
+      <webElementGuid>ed283112-cfde-4e09-a69d-8ddc0ca66d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;pl-[76px] pb-8&quot;]/div[2]/div[@class=&quot;p-4&quot;]</value>
+      <webElementGuid>56e0d56f-5207-4c54-bc0d-fae3731fd31a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>dba2eac7-664a-458d-ad47-0b25bfbea666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::div[5]</value>
+      <webElementGuid>a3a7725b-7a10-46fd-95bd-5439e5d7a02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminals'])[2]/following::div[6]</value>
+      <webElementGuid>8296d124-c994-4469-baf0-7733a378323f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>b502582f-be36-47dd-917f-c18531afcd79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'S.NoZoneTerminal CodeTerminal NameStateTerminal OperationCreated DateAction1SOUTH WESTERN ZONE1845IRUMPANAM TERMINALKeralaKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping2GMO SOUTH ZONE3884IRUNGATTUKOTTAI HINCOL CODTamil NaduKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping3GMO SOUTH ZONE1879TIRUNELVELI DEPOTTamil NaduKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping4SOUTH CENTRAL RETAIL ZONE7455TIRUPATI COMCOAndhra PradeshKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage MappingShowing From 1 To 4 of 4 results1' or . = 'S.NoZoneTerminal CodeTerminal NameStateTerminal OperationCreated DateAction1SOUTH WESTERN ZONE1845IRUMPANAM TERMINALKeralaKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping2GMO SOUTH ZONE3884IRUNGATTUKOTTAI HINCOL CODTamil NaduKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping3GMO SOUTH ZONE1879TIRUNELVELI DEPOTTamil NaduKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage Mapping4SOUTH CENTRAL RETAIL ZONE7455TIRUPATI COMCOAndhra PradeshKMS with swipe-in/swipe-out20 February 2024, 2:30 pmManage MappingShowing From 1 To 4 of 4 results1')]</value>
+      <webElementGuid>0c86064c-6c44-4f00-b11c-01c27c62939f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
