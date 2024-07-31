@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HPCLUAT,Null,,,31-07-2024 18:52:07,31-07-2024 18:55:12,3m - 4.963s,FAILED
+,,,,,,,
+Test Cases/U3UATMain_Modules_Test_case_2,Null,Checking all Modules and navigations,,31-07-2024 18:52:07,31-07-2024 18:55:12,3m - 4.480s,FAILED
+Start listener action : sampleBeforeTestCase,Null,,,31-07-2024 18:52:07,31-07-2024 18:52:07,0.018s,PASSED
+"openBrowser("""")",Null,,,31-07-2024 18:52:07,31-07-2024 18:55:11,3m - 3.921s,PASSED
+"navigateToUrl(""https://ttlssternauat.hpcl.co.in/login"")",Null,,,31-07-2024 18:55:11,31-07-2024 18:55:12,0.387s,FAILED
+Start listener action : sampleAfterTestCase,Null,,,31-07-2024 18:55:12,31-07-2024 18:55:12,0.004s,PASSED

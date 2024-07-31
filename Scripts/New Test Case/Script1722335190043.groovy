@@ -19,13 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://ttlssternauat.hpcl.co.in/')
+WebUI.navigateToUrl('https://ttlssternauat.hpcl.co.in/login')
 
-WebUI.maximizeWindow()
+WebUI.switchToWindowTitle('Sterna Unigem')
 
 WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.mouseOver(findTestObject('submenu/Page_Sterna Unigem/tripexception/span_Terminal Exceptions'))
+WebUI.mouseOver(findTestObject('submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/span_View All Exceptions'))
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+
+WebUI.click(findTestObject('Object Repository/submenu/replan/Page_Sterna Unigem/span_Trip Exceptions'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Reopen Closed Trip'))
+
+WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+
+WebUI.click(findTestObject('Object Repository/submenu/replan/Page_Sterna Unigem/span_Trip Exceptions'))
+
+WebUI.click(findTestObject('Object Repository/submenu/replan/Page_Sterna Unigem/span_Cancel  Close Trip'))
 

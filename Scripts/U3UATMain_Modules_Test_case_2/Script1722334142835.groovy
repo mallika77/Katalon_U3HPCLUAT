@@ -27,33 +27,59 @@ WebUI.waitForPageLoad(3000)
 
 WebUI.switchToWindowTitle('Sterna Unigem')
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.mouseOver(findTestObject('submenu/Page_Sterna Unigem/tripexception/span_Terminal Exceptions'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions'))
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/span_View All Exceptions'))
+WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions'))
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+WebUI.waitForPageLoad(3000)
 
-WebUI.mouseOver(findTestObject('submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/span_View All Exceptions'))
+WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions'))
 
-WebUI.mouseOver(findTestObject('submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions'))
+WebUI.waitForPageLoad(3000)
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Replan Trip'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.mouseOver(findTestObject('submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Reopen Closed Trip'))
+WebUI.waitForPageLoad(3000)
 
-WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.mouseOver(findTestObject('submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions'))
+WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Cancel  Close Trip'))
+WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip'))
+
+WebUI.waitForPageLoad(3000)
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
+
+WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
+
+WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_MP'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout'))
+
+WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes'))
+
+WebUI.closeBrowser()
 

@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-HPCLUAT,Chrome 127.0.0.0,,,31-07-2024 15:01:11,31-07-2024 15:02:01,49.714s,FAILED
-,,,,,,,
-Test Cases/U3UATMain_Modules_Test_case_2,Chrome 127.0.0.0,Checking all Modules and navigations,,31-07-2024 15:01:12,31-07-2024 15:02:01,49.220s,FAILED
-Start listener action : sampleBeforeTestCase,Chrome 127.0.0.0,,,31-07-2024 15:01:12,31-07-2024 15:01:12,0.019s,PASSED
-"openBrowser("""")",Chrome 127.0.0.0,,,31-07-2024 15:01:12,31-07-2024 15:02:00,48.076s,PASSED
-navigateToUrl(url),Chrome 127.0.0.0,,,31-07-2024 15:02:00,31-07-2024 15:02:01,0.846s,FAILED
-Start listener action : sampleAfterTestCase,Chrome 127.0.0.0,,,31-07-2024 15:02:01,31-07-2024 15:02:01,0.004s,PASSED

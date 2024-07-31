@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Reopen Closed Trip</name>
    <tag></tag>
-   <elementGuidId>8d4c9124-89f0-4c1a-b0b3-3ce4bcf8aec9</elementGuidId>
+   <elementGuidId>3c2a4f4b-f135-497e-8d3f-8ed36fccd8c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-:r30:']/a[3]/div/span</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>13fdffd4-134a-4279-bc29-197abcf060b4</webElementGuid>
+      <webElementGuid>f296ba0e-4010-49c7-aea1-56e580e7c290</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-normal text-slate-700</value>
-      <webElementGuid>3ba7af22-bbab-4e82-b98d-bebcba8c0bad</webElementGuid>
+      <webElementGuid>e869fad5-0412-47a9-a367-e6a88611e54e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,31 +45,31 @@
       <name>text</name>
       <type>Main</type>
       <value>Reopen Closed Trip</value>
-      <webElementGuid>2e5bb95d-1a2e-4013-ae05-e1c439017ba4</webElementGuid>
+      <webElementGuid>71775868-d76f-4b2c-aaba-d59cc73a1bd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:r30:&quot;)/a[3]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm py-1.5 px-2 text-sm font-medium outline-none focus:bg-slate-100 data-[disabled]:pointer-events-none data-[disabled]:opacity-50 dark:focus:bg-slate-700&quot;]/span[@class=&quot;font-normal text-slate-700&quot;]</value>
-      <webElementGuid>bf65a7e1-a758-4c94-be83-256b7f53d9c6</webElementGuid>
+      <value>id(&quot;radix-:ra8:&quot;)/a[3]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm py-1.5 px-2 text-sm font-medium outline-none focus:bg-slate-100 data-[disabled]:pointer-events-none data-[disabled]:opacity-50 dark:focus:bg-slate-700&quot;]/span[@class=&quot;font-normal text-slate-700&quot;]</value>
+      <webElementGuid>99877ba8-9366-4d5b-a9c8-eeb8ac876ddb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-:r30:']/a[3]/div/span</value>
-      <webElementGuid>8ae04397-c073-49d5-aaf8-4289ac70560f</webElementGuid>
+      <value>//div[@id='radix-:ra8:']/a[3]/div/span</value>
+      <webElementGuid>e5c929fd-2ea4-4eeb-a3bf-29a7219adad4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Replan Trip'])[1]/following::span[1]</value>
-      <webElementGuid>29aff996-ac1a-4f18-b7f1-74e10b411fc0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Replan Trip'])[2]/following::span[1]</value>
+      <webElementGuid>694d6ed2-696c-4322-a495-d849962086cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All Exceptions'])[1]/following::span[2]</value>
-      <webElementGuid>20142db9-0c18-402d-b1c3-2952fcbcb0a8</webElementGuid>
+      <webElementGuid>e3738bb7-eceb-4efb-9599-73cc1e279393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel / Close Trip'])[1]/preceding::span[1]</value>
-      <webElementGuid>6ba5a1fa-9651-4b7a-b1d2-ed0f31f72606</webElementGuid>
+      <webElementGuid>7995f1c3-2dbf-4d81-bd79-945e26efafca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Reopen Closed Trip']/parent::*</value>
-      <webElementGuid>5bd18512-4a8a-442f-aafd-06ae9e8d496b</webElementGuid>
+      <webElementGuid>f2451a35-71f3-45c0-ab1f-d7b9ad31cd4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]/div/span</value>
-      <webElementGuid>cd523668-97e2-4370-9501-3c4b0b723138</webElementGuid>
+      <webElementGuid>b3c1ac06-0427-451f-ada7-794c607d8422</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Reopen Closed Trip' or . = 'Reopen Closed Trip')]</value>
-      <webElementGuid>0c97c39a-41c2-4d28-b1ed-6029e270cfe1</webElementGuid>
+      <webElementGuid>d262b07d-1201-4f0f-a3c4-1a06d07cf2c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
