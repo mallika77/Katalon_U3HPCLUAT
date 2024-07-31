@@ -1,0 +1,74 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/Page_Sterna Unigem/tripexception/span_Terminal Exceptions",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r29s:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[16]/div/div/div/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837/HPCLUAT/20240731_130837/Object Repository/submenu/Page_Sterna Unigem/tripexception/span_Terminal Exceptions_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/Page_Sterna Unigem/tripexception/span_View All Exceptions",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r76:\u0027]/a/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027View All Exceptions\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r31:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Terminal Exceptions\u0027])[2]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837/HPCLUAT/20240731_130837/Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_View All Exceptions",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r30:\u0027]/a/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Terminal Exceptions\u0027])[2]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837/HPCLUAT/20240731_130837/Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_View All Exceptions_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r31:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837/HPCLUAT/20240731_130837/Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Trip Exceptions_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Replan Trip",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r30:\u0027]/a[2]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027View All Exceptions\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837/HPCLUAT/20240731_130837/Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Replan Trip_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Reopen Closed Trip",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r30:\u0027]/a[3]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Replan Trip\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240731_130837/HPCLUAT/20240731_130837/Object Repository/submenu/terminalexception/Page_Sterna Unigem/span_Reopen Closed Trip_neighbor.png"
+    }
+  ]
+}

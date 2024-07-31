@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-:r30:']/a[4]/div/span</value>
+         <value>//div[@id='radix-:rs6:']/a[4]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3856058e-8544-457d-95d6-3929d764a667</webElementGuid>
+      <webElementGuid>703de98d-e0ea-4900-804c-cdb39926bae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-normal text-slate-700</value>
-      <webElementGuid>ab8de1c0-1602-43d9-9099-9a0cc532b691</webElementGuid>
+      <webElementGuid>e972c449-a066-4772-b1d7-87d74955d352</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancel / Close Trip</value>
-      <webElementGuid>d7be3a46-0d8c-45f0-8b57-b040b30324cc</webElementGuid>
+      <webElementGuid>ec731b64-2bf4-4c5d-9a23-e1d53cda3d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:r30:&quot;)/a[4]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm py-1.5 px-2 text-sm font-medium outline-none focus:bg-slate-100 data-[disabled]:pointer-events-none data-[disabled]:opacity-50 dark:focus:bg-slate-700&quot;]/span[@class=&quot;font-normal text-slate-700&quot;]</value>
-      <webElementGuid>a77b6dbc-debf-4627-9bca-151f64eb16b9</webElementGuid>
+      <webElementGuid>fb541a5e-d5f4-4ebb-8436-f30501939ec7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:r30:']/a[4]/div/span</value>
-      <webElementGuid>082d8fb3-6dbc-440c-b78f-f0e8511c91da</webElementGuid>
+      <webElementGuid>807e899b-1421-4fff-9019-0d37ff7dcde2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reopen Closed Trip'])[1]/following::span[1]</value>
-      <webElementGuid>ef3e84d9-9c9a-4659-9699-dfe84648ddf7</webElementGuid>
+      <webElementGuid>7dc0b26c-e0d4-4e79-a191-745ba0ca8ff5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Replan Trip'])[1]/following::span[2]</value>
-      <webElementGuid>fc524536-f736-4fc3-bff1-4732e021c574</webElementGuid>
+      <webElementGuid>49bc9a4d-02f2-43fb-8e45-b228c3f491e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cancel / Close Trip']/parent::*</value>
-      <webElementGuid>6cbcbefb-8372-44c9-b669-653e4fce4068</webElementGuid>
+      <webElementGuid>7e592e4d-f9e5-4dd4-a132-435c92103792</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]/div/span</value>
-      <webElementGuid>169506f9-c436-4b2e-9c81-ebece002a920</webElementGuid>
+      <webElementGuid>5eb4cbc0-fcbc-4002-ad19-4ef2c20799e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +100,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Cancel / Close Trip' or . = 'Cancel / Close Trip')]</value>
-      <webElementGuid>f421d807-b91f-4574-ae33-8c70ab0ddf7b</webElementGuid>
+      <webElementGuid>b4387631-2580-46e9-b8d1-162a435fc55a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

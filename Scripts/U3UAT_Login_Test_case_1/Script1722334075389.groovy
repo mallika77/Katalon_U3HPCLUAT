@@ -22,11 +22,12 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.maximizeWindow()
+
 WebUI.waitForPageLoad(3000)
 
 WebUI.switchToWindowTitle('Sterna Unigem')
 
-WebUI.click(findTestObject('Object Repository/U3UAT_Modules_Navigations/Page_Sterna Unigem/svg'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/U3UAT_Modules_Navigations/Page_Sterna Unigem/img_Dashboard_rounded-md'))
+WebUI.click(findTestObject('null'))
 

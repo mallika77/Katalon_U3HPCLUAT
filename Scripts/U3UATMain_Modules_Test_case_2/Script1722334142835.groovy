@@ -17,13 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('U3UAT_Login_Test_case_1'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/U3UAT_Modules_Navigations/Page_Sterna Unigem/a_Dashboard'))
+WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.click(findTestObject('Object Repository/U3UAT_Modules_Navigations/Page_Sterna Unigem/svg (1)'))
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/U3UAT_Modules_Navigations/Page_Sterna Unigem/div_LiveTrips'))
+WebUI.waitForPageLoad(3000)
+
+WebUI.switchToWindowTitle('Sterna Unigem')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('submenu/Page_Sterna Unigem/tripexception/svg'))
 
