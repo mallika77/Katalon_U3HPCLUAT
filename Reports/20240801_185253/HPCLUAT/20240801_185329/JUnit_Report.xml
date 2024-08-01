@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="HPCLUAT" time="1040.156" tests="1" failures="0" errors="0">
+   <testsuite name="HPCLUAT" tests="1" failures="0" errors="0" time="1040.156" skipped="0" timestamp="01-08-2024T18:53:35" hostname="mallika - Test02.internal.sternadevices.in" id="Test Suites/HPCLUAT">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Mallika\\git\\Katalon_U3HPCLUAT\\Reports\\20240801_185253\\HPCLUAT\\20240801_185329"/>
+         <property name="logFiles" value="C:\\Users\\Mallika\\git\\Katalon_U3HPCLUAT\\Reports\\20240801_185253\\HPCLUAT\\20240801_185329\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mallika - Test02.internal.sternadevices.in"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.6.0.217"/>
+         <property name="browser" value="Chrome 127.0.0.0"/>
+         <property name="hostAddress" value="192.168.16.148"/>
+         <property name="sessionId" value="118cb9ae3195094a64106d4336b7764f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/U3UATMain_Modules_Test_case_2" time="1039.81" classname="Test Cases/U3UATMain_Modules_Test_case_2" status="PASSED">
+         <system-out><![CDATA[01-08-2024T18:53:36 - [TEST_CASE][PASSED] - Test Cases/U3UATMain_Modules_Test_case_2: Test Cases/U3UATMain_Modules_Test_case_2
+
+01-08-2024T18:53:36 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+01-08-2024T18:53:36 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+01-08-2024T18:53:36 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+01-08-2024T18:53:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+01-08-2024T18:53:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+01-08-2024T18:53:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+01-08-2024T18:53:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+01-08-2024T18:53:51 - [TEST_STEP][PASSED] - navigateToUrl("https://ttlssternauat.hpcl.co.in/login"): Navigate to 'https://ttlssternauat.hpcl.co.in/login' successfully
+
+01-08-2024T18:53:56 - [MESSAGE][PASSED] - Navigate to 'https://ttlssternauat.hpcl.co.in/login' successfully
+
+01-08-2024T18:53:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+01-08-2024T18:53:58 - [MESSAGE][PASSED] - Current window maximized
+
+01-08-2024T18:53:58 - [TEST_STEP][PASSED] - waitForPageLoad(3000): Wait for page load successfully
+
+01-08-2024T18:53:58 - [MESSAGE][PASSED] - Wait for page load successfully
+
+01-08-2024T18:53:58 - [TEST_STEP][PASSED] - switchToWindowTitle("Sterna Unigem"): Switched to window with title: 'Sterna Unigem'
+
+01-08-2024T18:53:58 - [MESSAGE][PASSED] - Switched to window with title: 'Sterna Unigem'
+
+01-08-2024T18:53:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:54:00 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:54:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions' is clicked on
+
+01-08-2024T18:54:31 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r23:']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:54:31 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions'. Try using Self-healing.
+
+01-08-2024T18:54:32 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Trip Exceptions'])[2]/preceding::span[1]'.
+
+01-08-2024T18:54:32 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions' is clicked on
+
+01-08-2024T18:54:32 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions' is clicked on
+
+01-08-2024T18:54:33 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions' is clicked on
+
+01-08-2024T18:54:33 - [TEST_STEP][PASSED] - waitForPageLoad(3000): Wait for page load successfully
+
+01-08-2024T18:54:33 - [MESSAGE][PASSED] - Wait for page load successfully
+
+01-08-2024T18:54:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:54:33 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:54:33 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:55:05 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:55:05 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'. Try using Self-healing.
+
+01-08-2024T18:55:05 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' was broken. Propose an alternative one: '//div[3]/span'.
+
+01-08-2024T18:55:05 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:55:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions' is clicked on
+
+01-08-2024T18:55:06 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions' is clicked on
+
+01-08-2024T18:55:06 - [TEST_STEP][PASSED] - waitForPageLoad(3000): Wait for page load successfully
+
+01-08-2024T18:55:06 - [MESSAGE][PASSED] - Wait for page load successfully
+
+01-08-2024T18:55:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:55:07 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:55:07 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:55:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:55:38 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'. Try using Self-healing.
+
+01-08-2024T18:55:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' was broken. Propose an alternative one: '//div[3]/span'.
+
+01-08-2024T18:55:39 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:55:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip' is clicked on
+
+01-08-2024T18:55:39 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip' is clicked on
+
+01-08-2024T18:55:39 - [TEST_STEP][PASSED] - waitForPageLoad(3000): Wait for page load successfully
+
+01-08-2024T18:55:39 - [MESSAGE][PASSED] - Wait for page load successfully
+
+01-08-2024T18:55:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:55:40 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:55:40 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:56:12 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:56:12 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'. Try using Self-healing.
+
+01-08-2024T18:56:14 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' was broken. Propose an alternative one: '//div[3]/span'.
+
+01-08-2024T18:56:19 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:56:19 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip' is clicked on
+
+01-08-2024T18:56:21 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip' is clicked on
+
+01-08-2024T18:56:21 - [TEST_STEP][PASSED] - waitForPageLoad(3000): Wait for page load successfully
+
+01-08-2024T18:56:21 - [MESSAGE][PASSED] - Wait for page load successfully
+
+01-08-2024T18:56:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:56:23 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg' is clicked on
+
+01-08-2024T18:56:23 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:56:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: '. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:56:55 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'. Try using Self-healing.
+
+01-08-2024T18:56:57 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' was broken. Propose an alternative one: '//div[3]/span'.
+
+01-08-2024T18:57:02 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions' is hovered
+
+01-08-2024T18:57:02 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip' is clicked on
+
+01-08-2024T18:57:04 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip' is clicked on
+
+01-08-2024T18:57:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus' is clicked on
+
+01-08-2024T18:57:06 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus' is clicked on
+
+01-08-2024T18:57:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips' is clicked on
+
+01-08-2024T18:57:08 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips' is clicked on
+
+01-08-2024T18:57:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals' is clicked on
+
+01-08-2024T18:57:10 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals' is clicked on
+
+01-08-2024T18:57:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS' is clicked on
+
+01-08-2024T18:57:12 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS' is clicked on
+
+01-08-2024T18:57:12 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users' is clicked on
+
+01-08-2024T18:57:14 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users' is clicked on
+
+01-08-2024T18:57:14 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Users")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Users' is clicked on
+
+01-08-2024T18:57:16 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Users' is clicked on
+
+01-08-2024T18:57:16 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users' is clicked on
+
+01-08-2024T18:57:18 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users' is clicked on
+
+01-08-2024T18:57:18 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles' is clicked on
+
+01-08-2024T18:57:50 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r17:']/div/a[2]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:57:50 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles'. Try using Self-healing.
+
+01-08-2024T18:57:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Manage Users'])[1]/following::span[1]'.
+
+01-08-2024T18:57:52 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles' is clicked on
+
+01-08-2024T18:57:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg' is clicked on
+
+01-08-2024T18:57:54 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg' is clicked on
+
+01-08-2024T18:57:54 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Configurations")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Configurations' is clicked on
+
+01-08-2024T18:57:56 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Configurations' is clicked on
+
+01-08-2024T18:57:56 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Countries")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Countries' is clicked on
+
+01-08-2024T18:57:58 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Countries' is clicked on
+
+01-08-2024T18:57:58 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Customers")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Customers' is clicked on
+
+01-08-2024T18:58:00 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Customers' is clicked on
+
+01-08-2024T18:58:00 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Returns")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Returns' is clicked on
+
+01-08-2024T18:58:02 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Returns' is clicked on
+
+01-08-2024T18:58:02 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_SMS Providers")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_SMS Providers' is clicked on
+
+01-08-2024T18:58:04 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_SMS Providers' is clicked on
+
+01-08-2024T18:58:04 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_States")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_States' is clicked on
+
+01-08-2024T18:58:06 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_States' is clicked on
+
+01-08-2024T18:58:06 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Stocks")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Stocks' is clicked on
+
+01-08-2024T18:58:08 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Stocks' is clicked on
+
+01-08-2024T18:58:08 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Terminals")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Terminals' is clicked on
+
+01-08-2024T18:58:10 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Terminals' is clicked on
+
+01-08-2024T18:58:10 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Truck VTS")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Truck VTS' is clicked on
+
+01-08-2024T18:58:12 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Truck VTS' is clicked on
+
+01-08-2024T18:58:12 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Trucks")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Trucks' is clicked on
+
+01-08-2024T18:58:14 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Trucks' is clicked on
+
+01-08-2024T18:58:14 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Zones")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Zones' is clicked on
+
+01-08-2024T18:58:16 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Zones' is clicked on
+
+01-08-2024T18:58:16 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T18:58:18 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T18:58:18 - [TEST_STEP][PASSED] - mouseOver(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report' is hovered
+
+01-08-2024T18:58:50 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r28:']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:58:50 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report'. Try using Self-healing.
+
+01-08-2024T18:58:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Dormant Report'])[1]/preceding::span[1]'.
+
+01-08-2024T18:58:57 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report' is hovered
+
+01-08-2024T18:58:57 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report' is clicked on
+
+01-08-2024T18:59:29 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r27:']/a[3]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T18:59:29 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report'. Try using Self-healing.
+
+01-08-2024T18:59:31 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Lock Activity Report'])[1]/following::span[1]'.
+
+01-08-2024T18:59:31 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report' is clicked on
+
+01-08-2024T18:59:31 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report' is clicked on
+
+01-08-2024T19:00:03 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r27:']/a[2]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:00:03 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report'. Try using Self-healing.
+
+01-08-2024T19:00:05 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='KMS Activity Report'])[1]/preceding::span[1]'.
+
+01-08-2024T19:00:05 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report' is clicked on
+
+01-08-2024T19:00:05 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report' is clicked on
+
+01-08-2024T19:00:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r27:']/a[3]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:00:37 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report'. Try using Self-healing.
+
+01-08-2024T19:00:39 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (.//*[normalize-space(text()) and normalize-space(.)='Lock Activity Report'])[1]/following::span[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:00:41 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report' was broken. Propose an alternative one: '//*/text()[normalize-space(.)='KMS Activity Report']/parent::*'.
+
+01-08-2024T19:00:41 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report' is clicked on
+
+01-08-2024T19:00:41 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report' is clicked on
+
+01-08-2024T19:01:13 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r27:']/a[4]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:01:13 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report'. Try using Self-healing.
+
+01-08-2024T19:01:15 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='KMS Activity Report'])[1]/following::span[1]'.
+
+01-08-2024T19:01:15 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report' is clicked on
+
+01-08-2024T19:01:15 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:01:17 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:01:17 - [TEST_STEP][PASSED] - mouseOver(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report' is hovered
+
+01-08-2024T19:01:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2b:']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:01:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report'. Try using Self-healing.
+
+01-08-2024T19:01:51 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Audit Log Report'])[1]/following::span[1]'.
+
+01-08-2024T19:01:56 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report' is hovered
+
+01-08-2024T19:01:56 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report' is clicked on
+
+01-08-2024T19:02:28 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2o:']/a/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:02:28 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report'. Try using Self-healing.
+
+01-08-2024T19:02:30 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Fan Report'])[1]/following::span[1]'.
+
+01-08-2024T19:02:30 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report' is clicked on
+
+01-08-2024T19:02:30 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:02:34 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:02:34 - [TEST_STEP][PASSED] - mouseOver(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' is hovered
+
+01-08-2024T19:03:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2e:']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:03:06 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report'. Try using Self-healing.
+
+01-08-2024T19:03:08 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Dormant Report'])[1]/following::span[1]'.
+
+01-08-2024T19:03:13 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' is hovered
+
+01-08-2024T19:03:13 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report' is clicked on
+
+01-08-2024T19:03:45 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2d:']/a/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:03:45 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report'. Try using Self-healing.
+
+01-08-2024T19:03:47 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Trip Mapping Report'])[1]/preceding::span[1]'.
+
+01-08-2024T19:03:47 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report' is clicked on
+
+01-08-2024T19:03:47 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:04:17 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:04:17 - [TEST_STEP][PASSED] - mouseOver(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' is hovered
+
+01-08-2024T19:04:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2e:']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:04:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report'. Try using Self-healing.
+
+01-08-2024T19:04:51 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Dormant Report'])[1]/following::span[1]'.
+
+01-08-2024T19:04:56 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' is hovered
+
+01-08-2024T19:04:56 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report' is clicked on
+
+01-08-2024T19:05:28 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2d:']/a[2]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:05:28 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report'. Try using Self-healing.
+
+01-08-2024T19:05:30 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Face Registration Report'])[1]/following::span[1]'.
+
+01-08-2024T19:05:30 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report' is clicked on
+
+01-08-2024T19:05:30 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:06:00 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:06:00 - [TEST_STEP][PASSED] - mouseOver(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' is hovered
+
+01-08-2024T19:06:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2e:']/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:06:32 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report'. Try using Self-healing.
+
+01-08-2024T19:06:34 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Dormant Report'])[1]/following::span[1]'.
+
+01-08-2024T19:06:39 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report' is hovered
+
+01-08-2024T19:06:39 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report' is clicked on
+
+01-08-2024T19:07:11 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='radix-:r2d:']/a[3]/div/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:07:11 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report'. Try using Self-healing.
+
+01-08-2024T19:07:13 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Trip Mapping Report'])[1]/following::span[1]'.
+
+01-08-2024T19:07:13 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report' is clicked on
+
+01-08-2024T19:07:13 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:07:43 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:07:43 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Exception Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Exception Report' is clicked on
+
+01-08-2024T19:08:13 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Exception Report' is clicked on
+
+01-08-2024T19:08:13 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:08:44 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:08:44 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Ro Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Ro Report' is clicked on
+
+01-08-2024T19:08:45 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Ro Report' is clicked on
+
+01-08-2024T19:08:45 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:15 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:15 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Report' is clicked on
+
+01-08-2024T19:09:17 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Report' is clicked on
+
+01-08-2024T19:09:17 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:19 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:19 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Report' is clicked on
+
+01-08-2024T19:09:21 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Report' is clicked on
+
+01-08-2024T19:09:21 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:23 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:23 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Maintenance Window Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Maintenance Window Report' is clicked on
+
+01-08-2024T19:09:25 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Maintenance Window Report' is clicked on
+
+01-08-2024T19:09:25 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:27 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:27 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Billing Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Billing Report' is clicked on
+
+01-08-2024T19:09:29 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Billing Report' is clicked on
+
+01-08-2024T19:09:29 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:31 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:31 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Auto Debit Summary Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Auto Debit Summary Report' is clicked on
+
+01-08-2024T19:09:33 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Auto Debit Summary Report' is clicked on
+
+01-08-2024T19:09:33 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:35 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:35 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Inventory Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Inventory Report' is clicked on
+
+01-08-2024T19:09:37 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Inventory Report' is clicked on
+
+01-08-2024T19:09:37 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:39 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Programming Key Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Programming Key Report' is clicked on
+
+01-08-2024T19:09:41 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Programming Key Report' is clicked on
+
+01-08-2024T19:09:41 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:43 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports' is clicked on
+
+01-08-2024T19:09:43 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Fan Report")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Fan Report' is clicked on
+
+01-08-2024T19:09:45 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Fan Report' is clicked on
+
+01-08-2024T19:09:45 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_MP")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_MP' is clicked on
+
+01-08-2024T19:09:47 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_MP' is clicked on
+
+01-08-2024T19:09:47 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout' is clicked on
+
+01-08-2024T19:10:19 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='mantine-q60ker8ao-dropdown']/div/div[4]/div/button/span/span[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:10:19 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout'. Try using Self-healing.
+
+01-08-2024T19:10:21 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Super Admin'])[1]/following::span[3]'.
+
+01-08-2024T19:10:21 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout' is clicked on
+
+01-08-2024T19:10:21 - [TEST_STEP][PASSED] - click(findTestObject("U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes")): Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes' is clicked on
+
+01-08-2024T19:10:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='mantine-juhzgtuvs-body']/div/button[2]/span/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+01-08-2024T19:10:53 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes'. Try using Self-healing.
+
+01-08-2024T19:10:55 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::span[2]'.
+
+01-08-2024T19:10:55 - [MESSAGE][PASSED] - Object: 'Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes' is clicked on
+
+01-08-2024T19:10:55 - [TEST_STEP][PASSED] - closeBrowser(STOP_ON_FAILURE): Browser is closed
+
+01-08-2024T19:10:55 - [MESSAGE][PASSED] - Browser is closed
+
+01-08-2024T19:10:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+01-08-2024T19:10:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+01-08-2024T19:10:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[01-08-2024T18:53:35 - [TEST_SUITE][PASSED] - HPCLUAT: Test Cases/U3UATMain_Modules_Test_case_2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,92 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+HPCLUAT,Chrome 127.0.0.0,,,01-08-2024 18:53:35,01-08-2024 19:10:55,17m - 20.156s,PASSED
+,,,,,,,
+Test Cases/U3UATMain_Modules_Test_case_2,Chrome 127.0.0.0,Checking all Modules and navigations,,01-08-2024 18:53:36,01-08-2024 19:10:55,17m - 19.810s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 127.0.0.0,,,01-08-2024 18:53:36,01-08-2024 18:53:36,0.030s,PASSED
+"openBrowser("""")",Chrome 127.0.0.0,,,01-08-2024 18:53:36,01-08-2024 18:53:51,14.511s,PASSED
+"navigateToUrl(""https://ttlssternauat.hpcl.co.in/login"")",Chrome 127.0.0.0,,,01-08-2024 18:53:51,01-08-2024 18:53:56,5.960s,PASSED
+maximizeWindow(),Chrome 127.0.0.0,,,01-08-2024 18:53:56,01-08-2024 18:53:58,1.044s,PASSED
+waitForPageLoad(3000),Chrome 127.0.0.0,,,01-08-2024 18:53:58,01-08-2024 18:53:58,0.405s,PASSED
+"switchToWindowTitle(""Sterna Unigem"")",Chrome 127.0.0.0,,,01-08-2024 18:53:58,01-08-2024 18:53:58,0.193s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,01-08-2024 18:53:58,01-08-2024 18:54:00,2.210s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:54:00,01-08-2024 18:54:32,31.572s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:54:32,01-08-2024 18:54:33,0.618s,PASSED
+waitForPageLoad(3000),Chrome 127.0.0.0,,,01-08-2024 18:54:33,01-08-2024 18:54:33,0.071s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,01-08-2024 18:54:33,01-08-2024 18:54:33,0.898s,PASSED
+"mouseOver(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:54:33,01-08-2024 18:55:05,31.829s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:55:05,01-08-2024 18:55:06,0.577s,PASSED
+waitForPageLoad(3000),Chrome 127.0.0.0,,,01-08-2024 18:55:06,01-08-2024 18:55:06,0.036s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,01-08-2024 18:55:06,01-08-2024 18:55:07,0.997s,PASSED
+"mouseOver(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:55:07,01-08-2024 18:55:39,31.625s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip""))",Chrome 127.0.0.0,,,01-08-2024 18:55:39,01-08-2024 18:55:39,0.632s,PASSED
+waitForPageLoad(3000),Chrome 127.0.0.0,,,01-08-2024 18:55:39,01-08-2024 18:55:39,0.035s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,01-08-2024 18:55:39,01-08-2024 18:55:40,1.175s,PASSED
+"mouseOver(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:55:40,01-08-2024 18:56:19,38.776s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip""))",Chrome 127.0.0.0,,,01-08-2024 18:56:19,01-08-2024 18:56:21,1.900s,PASSED
+waitForPageLoad(3000),Chrome 127.0.0.0,,,01-08-2024 18:56:21,01-08-2024 18:56:21,0.019s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg""))",Chrome 127.0.0.0,,,01-08-2024 18:56:21,01-08-2024 18:56:23,1.962s,PASSED
+"mouseOver(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions""))",Chrome 127.0.0.0,,,01-08-2024 18:56:23,01-08-2024 18:57:02,39.108s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip""))",Chrome 127.0.0.0,,,01-08-2024 18:57:02,01-08-2024 18:57:04,1.943s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus""))",Chrome 127.0.0.0,,,01-08-2024 18:57:04,01-08-2024 18:57:06,1.981s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips""))",Chrome 127.0.0.0,,,01-08-2024 18:57:06,01-08-2024 18:57:08,2.020s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals""))",Chrome 127.0.0.0,,,01-08-2024 18:57:08,01-08-2024 18:57:10,1.965s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS""))",Chrome 127.0.0.0,,,01-08-2024 18:57:10,01-08-2024 18:57:12,1.984s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users""))",Chrome 127.0.0.0,,,01-08-2024 18:57:12,01-08-2024 18:57:14,2.016s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Users""))",Chrome 127.0.0.0,,,01-08-2024 18:57:14,01-08-2024 18:57:16,2.021s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users""))",Chrome 127.0.0.0,,,01-08-2024 18:57:16,01-08-2024 18:57:18,1.971s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles""))",Chrome 127.0.0.0,,,01-08-2024 18:57:18,01-08-2024 18:57:52,34.021s,PASSED
+"click(findTestObject(""Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg""))",Chrome 127.0.0.0,,,01-08-2024 18:57:52,01-08-2024 18:57:54,2.023s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Configurations""))",Chrome 127.0.0.0,,,01-08-2024 18:57:54,01-08-2024 18:57:56,1.953s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Countries""))",Chrome 127.0.0.0,,,01-08-2024 18:57:56,01-08-2024 18:57:58,1.992s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Customers""))",Chrome 127.0.0.0,,,01-08-2024 18:57:58,01-08-2024 18:58:00,2.014s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Returns""))",Chrome 127.0.0.0,,,01-08-2024 18:58:00,01-08-2024 18:58:02,1.985s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_SMS Providers""))",Chrome 127.0.0.0,,,01-08-2024 18:58:02,01-08-2024 18:58:04,2.001s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_States""))",Chrome 127.0.0.0,,,01-08-2024 18:58:04,01-08-2024 18:58:06,1.983s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Stocks""))",Chrome 127.0.0.0,,,01-08-2024 18:58:06,01-08-2024 18:58:08,2.045s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Terminals""))",Chrome 127.0.0.0,,,01-08-2024 18:58:08,01-08-2024 18:58:10,1.966s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Truck VTS""))",Chrome 127.0.0.0,,,01-08-2024 18:58:10,01-08-2024 18:58:12,2.006s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Trucks""))",Chrome 127.0.0.0,,,01-08-2024 18:58:12,01-08-2024 18:58:14,1.985s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Zones""))",Chrome 127.0.0.0,,,01-08-2024 18:58:14,01-08-2024 18:58:16,2.022s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 18:58:16,01-08-2024 18:58:18,2.019s,PASSED
+"mouseOver(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report""))",Chrome 127.0.0.0,,,01-08-2024 18:58:18,01-08-2024 18:58:57,39.149s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report""))",Chrome 127.0.0.0,,,01-08-2024 18:58:57,01-08-2024 18:59:31,33.899s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report""))",Chrome 127.0.0.0,,,01-08-2024 18:59:31,01-08-2024 19:00:05,33.939s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report""))",Chrome 127.0.0.0,,,01-08-2024 19:00:05,01-08-2024 19:00:41,35.995s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report""))",Chrome 127.0.0.0,,,01-08-2024 19:00:41,01-08-2024 19:01:15,33.999s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:01:15,01-08-2024 19:01:17,1.972s,PASSED
+"mouseOver(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report""))",Chrome 127.0.0.0,,,01-08-2024 19:01:17,01-08-2024 19:01:56,39.135s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report""))",Chrome 127.0.0.0,,,01-08-2024 19:01:56,01-08-2024 19:02:30,33.986s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:02:30,01-08-2024 19:02:34,3.903s,PASSED
+"mouseOver(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report""))",Chrome 127.0.0.0,,,01-08-2024 19:02:34,01-08-2024 19:03:13,39.186s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report""))",Chrome 127.0.0.0,,,01-08-2024 19:03:13,01-08-2024 19:03:47,33.905s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:03:47,01-08-2024 19:04:17,30.115s,PASSED
+"mouseOver(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report""))",Chrome 127.0.0.0,,,01-08-2024 19:04:17,01-08-2024 19:04:56,38.892s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report""))",Chrome 127.0.0.0,,,01-08-2024 19:04:56,01-08-2024 19:05:30,33.994s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:05:30,01-08-2024 19:06:00,30.085s,PASSED
+"mouseOver(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report""))",Chrome 127.0.0.0,,,01-08-2024 19:06:00,01-08-2024 19:06:39,38.923s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report""))",Chrome 127.0.0.0,,,01-08-2024 19:06:39,01-08-2024 19:07:13,33.945s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:07:13,01-08-2024 19:07:43,30.136s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Exception Report""))",Chrome 127.0.0.0,,,01-08-2024 19:07:43,01-08-2024 19:08:13,30.185s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:08:13,01-08-2024 19:08:44,30.086s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Ro Report""))",Chrome 127.0.0.0,,,01-08-2024 19:08:44,01-08-2024 19:08:45,1.583s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:08:45,01-08-2024 19:09:15,30.125s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:15,01-08-2024 19:09:17,1.828s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:17,01-08-2024 19:09:19,1.983s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:19,01-08-2024 19:09:21,2.082s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:21,01-08-2024 19:09:23,1.928s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Maintenance Window Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:23,01-08-2024 19:09:25,2.016s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:25,01-08-2024 19:09:27,2.023s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Billing Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:27,01-08-2024 19:09:29,1.984s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:29,01-08-2024 19:09:31,1.945s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Auto Debit Summary Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:31,01-08-2024 19:09:33,2.058s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:33,01-08-2024 19:09:35,1.959s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Inventory Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:35,01-08-2024 19:09:37,2.045s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:37,01-08-2024 19:09:39,1.958s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Programming Key Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:39,01-08-2024 19:09:41,2.030s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports""))",Chrome 127.0.0.0,,,01-08-2024 19:09:41,01-08-2024 19:09:43,1.975s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Fan Report""))",Chrome 127.0.0.0,,,01-08-2024 19:09:43,01-08-2024 19:09:45,2.022s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_MP""))",Chrome 127.0.0.0,,,01-08-2024 19:09:45,01-08-2024 19:09:47,1.968s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout""))",Chrome 127.0.0.0,,,01-08-2024 19:09:47,01-08-2024 19:10:21,34.065s,PASSED
+"click(findTestObject(""U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes""))",Chrome 127.0.0.0,,,01-08-2024 19:10:21,01-08-2024 19:10:55,33.970s,PASSED
+closeBrowser(STOP_ON_FAILURE),Chrome 127.0.0.0,,,01-08-2024 19:10:55,01-08-2024 19:10:55,0.407s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 127.0.0.0,,,01-08-2024 19:10:55,01-08-2024 19:10:55,0.004s,PASSED

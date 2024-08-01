@@ -187,3 +187,5 @@ WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexce
 
 WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes'))
 
+WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+

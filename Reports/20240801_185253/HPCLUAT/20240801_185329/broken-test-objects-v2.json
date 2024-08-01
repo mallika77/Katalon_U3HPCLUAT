@@ -1,0 +1,164 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r23:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Trip Exceptions\u0027])[2]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r17:\u0027]/div/a[2]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Manage Users\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r28:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dormant Report\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r27:\u0027]/a[3]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Lock Activity Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r27:\u0027]/a[2]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027KMS Activity Report\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r27:\u0027]/a[3]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027KMS Activity Report\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r27:\u0027]/a[4]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027KMS Activity Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r2b:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Audit Log Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r2o:\u0027]/a/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Fan Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r2e:\u0027]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dormant Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r2d:\u0027]/a/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Trip Mapping Report\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r2d:\u0027]/a[2]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Face Registration Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report",
+      "brokenLocator": "//div[@id\u003d\u0027radix-:r2d:\u0027]/a[3]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Trip Mapping Report\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout",
+      "brokenLocator": "//div[@id\u003d\u0027mantine-q60ker8ao-dropdown\u0027]/div/div[4]/div/button/span/span[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Super Admin\u0027])[1]/following::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes",
+      "brokenLocator": "//div[@id\u003d\u0027mantine-juhzgtuvs-body\u0027]/div/button[2]/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027No\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240801_185253/HPCLUAT/20240801_185329/Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes_neighbor.png"
+    }
+  ]
+}
