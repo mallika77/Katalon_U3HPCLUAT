@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reports</name>
+   <tag></tag>
+   <elementGuidId>6d9ac5a2-52bd-4e23-a029-1c4af4b610a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a84e8c19-7641-4304-bf58-7642b6b5ce34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mini-nav-link cursor-pointer</value>
+      <webElementGuid>7b28ec51-312a-47dc-96d5-8c80a85e9f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reports</value>
+      <webElementGuid>5a86f897-5f29-4aff-952f-a7c37be0ef2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex fixed flex-col w-[76px] h-screen top-0 bottom-0 left-0 bg-primary-500 z-50 shadow-soft&quot;]/div[@class=&quot;grow w-full flex flex-col items-center space-y-2 py-2&quot;]/div[@class=&quot;mini-nav-link cursor-pointer&quot;]</value>
+      <webElementGuid>61d4a4eb-fa73-4fa7-a97c-e0a2c4b3a72f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[3]</value>
+      <webElementGuid>57a78d0d-e93a-4681-ab3d-c7ede9571c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[1]</value>
+      <webElementGuid>52c0ffc4-0f5c-4c11-9b51-6027bac5b925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminals'])[1]/following::div[3]</value>
+      <webElementGuid>7a96c0f1-89ad-46c8-b01e-df9c4da3e0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VTS'])[1]/preceding::div[2]</value>
+      <webElementGuid>10c0eae2-2a11-47a4-8d63-5042a6ce285f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]/div[3]</value>
+      <webElementGuid>2be3195b-ef6e-4f34-be33-1f4fa2469c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reports' or . = 'Reports')]</value>
+      <webElementGuid>4be1bf7e-84b5-441b-8371-4ef166140ad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

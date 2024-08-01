@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SMS Providers</name>
+   <tag></tag>
+   <elementGuidId>dd65a8fe-edad-4b9e-aac6-3d962dbf9547</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/a[11]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3c472b7-319c-4290-a929-e747c81c4029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal</value>
+      <webElementGuid>4a48bc5a-b835-4d59-ac89-66fc63c04f97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMS Providers</value>
+      <webElementGuid>ab6905bb-ec8a-44c5-9a67-245f4da74fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;pl-[76px] pb-8&quot;]/div[@class=&quot;w-full flex flex-col&quot;]/div[@class=&quot;sticky top-0 left-0 right-0 z-50 bg-white pt-2 shadow-sm flex flex-col space-y-2&quot;]/div[@class=&quot;w-full h-full flex items-end justify-start pl-4 space-x-6&quot;]/a[@class=&quot;text-sm font-medium underline-offset-[10px] py-1.5 border-b-[2.5px] border-white no-underline&quot;]/div[1]/span[@class=&quot;font-normal&quot;]</value>
+      <webElementGuid>843d6148-c4d1-424a-9287-adc081ddb2f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/a[11]/div/span</value>
+      <webElementGuid>3613119d-f2a6-4c6a-99d5-f2ea6321d9a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='States'])[1]/following::span[1]</value>
+      <webElementGuid>94bc7c9e-7850-4e15-825f-e7ef0d731923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zones'])[1]/following::span[2]</value>
+      <webElementGuid>4dd93675-cf0f-4f0c-92b2-044adfd9c1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configurations'])[2]/preceding::span[1]</value>
+      <webElementGuid>c0d6f9af-e1d7-41f8-a834-f21cb9837dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S.No'])[1]/preceding::span[1]</value>
+      <webElementGuid>9edee1cc-9157-49c6-b841-99a26861c62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SMS Providers']/parent::*</value>
+      <webElementGuid>83fad17a-a2fe-43b9-8087-e573cb6e9b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[11]/div/span</value>
+      <webElementGuid>71afcec0-7033-46fa-9f58-54512c1704da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SMS Providers' or . = 'SMS Providers')]</value>
+      <webElementGuid>927c79e4-51ef-4857-889f-59f63ee63a99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

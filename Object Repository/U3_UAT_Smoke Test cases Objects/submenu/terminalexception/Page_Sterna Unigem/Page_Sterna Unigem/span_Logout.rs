@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Logout</name>
+   <tag></tag>
+   <elementGuidId>7cf9b874-962c-40ac-88ce-5d8c7705c9df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mantine-q60ker8ao-dropdown']/div/div[4]/div/button/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > button.mantine-focus-auto.mantine-active.m-77c9d27d.mantine-Button-root.m-87cf2631.mantine-UnstyledButton-root > span.m-80f1301b.mantine-Button-inner > span.m-811560b9.mantine-Button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Logout&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2576246-370b-4959-aaf8-664e736472aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-811560b9 mantine-Button-label</value>
+      <webElementGuid>27e5daff-2dc0-45c3-b923-b49c25f5bea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>3127cc78-c31a-4ed7-b89d-feecdf16230c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mantine-q60ker8ao-dropdown&quot;)/div[@class=&quot;p-2 flex flex-col justify-center items-center space-y-2&quot;]/div[@class=&quot;flex flex-col space-y-2 pt-2&quot;]/div[1]/button[@class=&quot;mantine-focus-auto mantine-active m-77c9d27d mantine-Button-root m-87cf2631 mantine-UnstyledButton-root&quot;]/span[@class=&quot;m-80f1301b mantine-Button-inner&quot;]/span[@class=&quot;m-811560b9 mantine-Button-label&quot;]</value>
+      <webElementGuid>dc7f819e-1b1a-4af8-9e2f-31a628ec0d54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mantine-q60ker8ao-dropdown']/div/div[4]/div/button/span/span[2]</value>
+      <webElementGuid>b453c4a7-e405-4ca2-9480-21aebac408e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Admin'])[1]/following::span[3]</value>
+      <webElementGuid>77f88cd0-1554-4d1d-a107-d3c22bfe1454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mallika PK'])[1]/following::span[4]</value>
+      <webElementGuid>6ca9c20f-89e1-44a8-93a3-77d7608cd178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>1532df6e-676f-4401-af3c-028f5202f9b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span/span[2]</value>
+      <webElementGuid>481bae6d-97ff-4c0c-9bed-3c667a5bdcd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>361c045e-6e89-42ec-83aa-51c059f449d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

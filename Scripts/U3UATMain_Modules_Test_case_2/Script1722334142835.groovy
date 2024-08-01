@@ -27,59 +27,163 @@ WebUI.waitForPageLoad(3000)
 
 WebUI.switchToWindowTitle('Sterna Unigem')
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Terminal Exceptions'))
 
-WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions'))
-
-WebUI.waitForPageLoad(3000)
-
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
-
-WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
-
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions'))
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions'))
 
 WebUI.waitForPageLoad(3000)
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
+WebUI.mouseOver(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip'))
-
-WebUI.waitForPageLoad(3000)
-
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
-
-WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
-
-WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_View All Exceptions'))
 
 WebUI.waitForPageLoad(3000)
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.mouseOver(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
+WebUI.mouseOver(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Replan Trip'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus'))
+WebUI.waitForPageLoad(3000)
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals'))
+WebUI.mouseOver(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS'))
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Reopen Closed Trip'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg'))
+WebUI.waitForPageLoad(3000)
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_MP'))
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/tripexception/svg'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout'))
+WebUI.mouseOver(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Trip Exceptions'))
 
-WebUI.click(findTestObject('Object Repository/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes'))
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Cancel  Close Trip'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_TruckStatus'))
+
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_LiveTrips'))
+
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_Terminals'))
+
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/a_VTS'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Users'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/div_Users'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/span_Manage Roles'))
+
+WebUI.click(findTestObject('Object Repository/U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/Page_Sterna Unigem/svg'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Configurations'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Countries'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Customers'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Returns'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_SMS Providers'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_States'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Stocks'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Terminals'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Truck VTS'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Trucks'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Settings/Page_Sterna Unigem/span_Zones'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.mouseOver(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Audit Log Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Lock Activity Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_KMS Activity Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Otp Activity Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.mouseOver(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Dormant Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Key Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.mouseOver(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Registration Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.mouseOver(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Mapping Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.mouseOver(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Driver Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Face Verification Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Exception Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Ro Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Trip Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Truck Maintenance Window Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Billing Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Auto Debit Summary Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Inventory Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Programming Key Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/div_Reports'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/Reports/Page_Sterna Unigem/span_Fan Report'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_MP'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Logout'))
+
+WebUI.click(findTestObject('U3_UAT_Smoke Test cases Objects/submenu/terminalexception/Page_Sterna Unigem/Page_Sterna Unigem/span_Yes'))
 

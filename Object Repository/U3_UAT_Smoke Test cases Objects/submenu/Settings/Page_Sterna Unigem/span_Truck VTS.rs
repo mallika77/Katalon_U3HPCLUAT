@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Truck VTS</name>
+   <tag></tag>
+   <elementGuidId>475b6c75-aa2d-4af0-a16f-b3bc848a11d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/a[7]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57c9674b-cd8c-4bca-b196-82e02544b6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal</value>
+      <webElementGuid>a3637348-3983-48d5-b4a2-307d4fc19eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Truck VTS</value>
+      <webElementGuid>67abc13a-ef34-4df2-a304-8a3b2b7e3afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;pl-[76px] pb-8&quot;]/div[@class=&quot;w-full flex flex-col&quot;]/div[@class=&quot;sticky top-0 left-0 right-0 z-50 bg-white pt-2 shadow-sm flex flex-col space-y-2&quot;]/div[@class=&quot;w-full h-full flex items-end justify-start pl-4 space-x-6&quot;]/a[@class=&quot;text-sm font-medium underline-offset-[10px] py-1.5 border-b-[2.5px] border-white no-underline&quot;]/div[1]/span[@class=&quot;font-normal&quot;]</value>
+      <webElementGuid>b8d5e069-9fa3-40a7-9488-7950974ceb39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/a[7]/div/span</value>
+      <webElementGuid>a40f563a-107c-4b5f-b0b7-b5f33b5304fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trucks'])[1]/following::span[1]</value>
+      <webElementGuid>586a3c6a-6ea5-420e-8376-ff31493baf91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/following::span[2]</value>
+      <webElementGuid>a8bfc3fa-8e12-4b83-b85b-e6536b50619f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Countries'])[1]/preceding::span[1]</value>
+      <webElementGuid>53424c4b-7648-45d3-939a-6ae4903fbe3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zones'])[1]/preceding::span[2]</value>
+      <webElementGuid>08210b31-6c53-4dfd-b5c8-7a6cb26fe2d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Truck VTS']/parent::*</value>
+      <webElementGuid>3bfa7a25-251d-4093-9644-ff7b2d594603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/div/span</value>
+      <webElementGuid>6f4e0795-bee8-44a0-9f68-84af329b631f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Truck VTS' or . = 'Truck VTS')]</value>
+      <webElementGuid>8adc95a3-e58a-4e1a-bbaa-37b28b7c9f5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
